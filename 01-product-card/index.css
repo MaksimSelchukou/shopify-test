@@ -1,7 +1,7 @@
 /* Смотри сколько снизу свободного места! Оно идеально подойдёт, чтобы писать твои стили! */
 body {
     background-color: #F6F6F6;
-    font-family: Arial,monospace;
+    font-family: Arial, monospace;
     font-weight: 900;
     max-width: 1920px;
     max-height: 694px;
@@ -65,14 +65,13 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: 0 20px;
-
 }
 
 .products-week__column {
     border-radius: 12px;
     background-color: #FFFFFF;
     filter: drop-shadow(0 0 10px #C4C4C4);
+
 }
 
 .item-products-week {
